@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Gestión siniestros</string>
     <string name="action_settings">Settings</string>
-    <string name="boton_notificar">Notificar siniestro</string>
+    <string name="boton_notificar">Acceso a mi comunidad</string>
 
     <!--content_main-->
     <string name="TituloBienvenida">Bienvenido a CLG administración de fincas</string>
-    <string name="BotonAcceso">Introducir datos</string>
+    <string name="BotonAcceso">Comunicar incidencia</string>
     <string name="title_activity_datos">Datos Siniestro</string>
 
     <!--content_datos-->
